@@ -1,0 +1,243 @@
+2023-06-24 09:59:21.523 [info] 
+
+
+
+
+2023-06-24 09:59:21.575 [info] Extension host agent started.
+2023-06-24 09:59:21.783 [info] [127.0.0.1][12e459b2][ManagementConnection] New connection established.
+2023-06-24 09:59:21.786 [info] [127.0.0.1][ef368c8d][ExtensionHostConnection] New connection established.
+2023-06-24 09:59:22.053 [info] [127.0.0.1][ef368c8d][ExtensionHostConnection] <789123> Launched Extension Host Process.
+2023-06-24 09:59:23.788 [error] CodeExpectedError: Could not find pty on pty host
+    at k.L (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:28:6920)
+    at k.updateTitle (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:28:2627)
+    at Object.call (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:17:5058)
+    at h.s (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:5412)
+    at h.q (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:4915)
+    at /home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:4326
+    at l.invoke (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at u.deliver (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:2125)
+    at s.fire (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:1733)
+    at process.z (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:9:21144)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-06-24 09:59:27.784 [error] CodeExpectedError: Could not find pty on pty host
+    at k.L (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:28:6920)
+    at k.updateTitle (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:28:2627)
+    at Object.call (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:17:5058)
+    at h.s (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:5412)
+    at h.q (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:4915)
+    at /home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:4326
+    at l.invoke (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at u.deliver (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:2125)
+    at s.fire (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:1733)
+    at process.z (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:9:21144)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-06-24 09:59:27.784 [error] CodeExpectedError: Could not find pty on pty host
+    at k.L (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:28:6920)
+    at k.updateIcon (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:28:2677)
+    at Object.call (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:17:5058)
+    at h.s (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:5412)
+    at h.q (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:4915)
+    at /home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:4326
+    at l.invoke (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at u.deliver (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:2125)
+    at s.fire (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:1733)
+    at process.z (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:9:21144)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-06-24 10:04:21.580 [info] New EH opened, aborting shutdown
+2023-06-24 11:03:11.280 [info] [127.0.0.1][e5b66368][ManagementConnection] New connection established.
+2023-06-24 11:03:11.311 [info] [127.0.0.1][df2fad6b][ExtensionHostConnection] New connection established.
+2023-06-24 11:03:11.424 [info] [127.0.0.1][df2fad6b][ExtensionHostConnection] <794035> Launched Extension Host Process.
+2023-06-24 11:03:13.800 [error] CodeExpectedError: Could not find pty on pty host
+    at k.L (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:28:6920)
+    at k.updateTitle (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:28:2627)
+    at Object.call (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:17:5058)
+    at h.s (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:5412)
+    at h.q (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:4915)
+    at /home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:4326
+    at l.invoke (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at u.deliver (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:2125)
+    at s.fire (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:1733)
+    at process.z (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:9:21144)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-06-24 11:08:11.462 [info] [127.0.0.1][ef368c8d][ExtensionHostConnection] <789123> Extension Host Process exited with code: 0, signal: null.
+2023-06-24 14:14:26.962 [info] [127.0.0.1][df2fad6b][ExtensionHostConnection] The client has reconnected.
+2023-06-24 14:15:06.331 [info] [127.0.0.1][df2fad6b][ExtensionHostConnection] <794035> Extension Host Process exited with code: 0, signal: null.
+2023-06-24 14:15:06.333 [info] Last EH closed, waiting before shutting down
+2023-06-24 14:15:15.897 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-06-24 14:15:15.899 [info] Cancelling previous shutdown timeout
+2023-06-24 14:15:15.989 [info] [127.0.0.1][c80ae5d6][ManagementConnection] New connection established.
+2023-06-24 14:15:16.083 [info] [127.0.0.1][9e34488b][ExtensionHostConnection] New connection established.
+2023-06-24 14:15:16.136 [info] [127.0.0.1][9e34488b][ExtensionHostConnection] <807843> Launched Extension Host Process.
+2023-06-24 14:15:18.768 [error] CodeExpectedError: Could not find pty on pty host
+    at k.L (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:28:6920)
+    at k.updateTitle (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:28:2627)
+    at Object.call (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:17:5058)
+    at h.s (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:5412)
+    at h.q (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:4915)
+    at /home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:4326
+    at l.invoke (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at u.deliver (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:2125)
+    at s.fire (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:1733)
+    at process.z (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:9:21144)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-06-24 14:15:19.810 [error] CodeExpectedError: Could not find pty on pty host
+    at k.L (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:28:6920)
+    at k.updateTitle (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:28:2627)
+    at Object.call (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:17:5058)
+    at h.s (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:5412)
+    at h.q (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:4915)
+    at /home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:4326
+    at l.invoke (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at u.deliver (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:2125)
+    at s.fire (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:1733)
+    at process.z (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:9:21144)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-06-24 14:15:19.812 [error] CodeExpectedError: Could not find pty on pty host
+    at k.L (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:28:6920)
+    at k.updateIcon (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:28:2677)
+    at Object.call (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:17:5058)
+    at h.s (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:5412)
+    at h.q (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:4915)
+    at /home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:4326
+    at l.invoke (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at u.deliver (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:2125)
+    at s.fire (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:1733)
+    at process.z (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:9:21144)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-06-24 14:20:15.903 [info] New EH opened, aborting shutdown
+2023-06-24 15:27:10.567 [info] [127.0.0.1][9e34488b][ExtensionHostConnection] The client has reconnected.
+2023-06-24 15:27:22.705 [info] [127.0.0.1][c80ae5d6][ManagementConnection] The client has reconnected.
+2023-06-24 15:27:23.749 [error] CodeExpectedError: Could not find pty on pty host
+    at k.L (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:28:6920)
+    at k.updateIcon (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:28:2677)
+    at Object.call (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:17:5058)
+    at h.s (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:5412)
+    at h.q (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:4915)
+    at /home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:4326
+    at l.invoke (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at u.deliver (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:2125)
+    at s.fire (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:1733)
+    at process.z (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:9:21144)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-06-24 15:27:23.754 [error] CodeExpectedError: Could not find pty on pty host
+    at k.L (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:28:6920)
+    at k.updateTitle (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:28:2627)
+    at Object.call (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:17:5058)
+    at h.s (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:5412)
+    at h.q (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:4915)
+    at /home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:4326
+    at l.invoke (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at u.deliver (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:2125)
+    at s.fire (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:1733)
+    at process.z (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:9:21144)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-06-24 15:27:23.755 [error] CodeExpectedError: Could not find pty on pty host
+    at k.L (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:28:6920)
+    at k.updateTitle (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:28:2627)
+    at Object.call (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:17:5058)
+    at h.s (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:5412)
+    at h.q (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:4915)
+    at /home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:4326
+    at l.invoke (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at u.deliver (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:2125)
+    at s.fire (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:1733)
+    at process.z (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:9:21144)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-06-24 15:27:24.998 [error] CodeExpectedError: Could not find pty on pty host
+    at k.L (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:28:6920)
+    at k.updateTitle (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:28:2627)
+    at Object.call (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:17:5058)
+    at h.s (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:5412)
+    at h.q (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:4915)
+    at /home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:4326
+    at l.invoke (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at u.deliver (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:2125)
+    at s.fire (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:1733)
+    at process.z (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:9:21144)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-06-24 16:07:22.069 [info] [127.0.0.1][08737114][ManagementConnection] New connection established.
+2023-06-24 16:07:22.164 [info] [127.0.0.1][87be4e51][ExtensionHostConnection] New connection established.
+2023-06-24 16:07:22.197 [info] [127.0.0.1][87be4e51][ExtensionHostConnection] <816626> Launched Extension Host Process.
+2023-06-24 16:07:24.782 [error] CodeExpectedError: Could not find pty on pty host
+    at k.L (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:28:6920)
+    at k.updateTitle (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:28:2627)
+    at Object.call (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:17:5058)
+    at h.s (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:5412)
+    at h.q (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:4915)
+    at /home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:4326
+    at l.invoke (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at u.deliver (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:2125)
+    at s.fire (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:1733)
+    at process.z (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:9:21144)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-06-24 16:12:22.251 [info] [127.0.0.1][9e34488b][ExtensionHostConnection] <807843> Extension Host Process exited with code: 0, signal: null.
+2023-06-24 17:03:27.419 [info] [127.0.0.1][c6310ad0][ManagementConnection] New connection established.
+2023-06-24 17:03:27.477 [info] [127.0.0.1][9adaf4b1][ExtensionHostConnection] New connection established.
+2023-06-24 17:03:27.525 [info] [127.0.0.1][9adaf4b1][ExtensionHostConnection] <821178> Launched Extension Host Process.
+2023-06-24 17:03:30.203 [error] CodeExpectedError: Could not find pty on pty host
+    at k.L (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:28:6920)
+    at k.updateTitle (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:28:2627)
+    at Object.call (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:17:5058)
+    at h.s (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:5412)
+    at h.q (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:4915)
+    at /home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:4326
+    at l.invoke (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at u.deliver (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:2125)
+    at s.fire (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:1733)
+    at process.z (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:9:21144)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-06-24 17:03:31.718 [error] CodeExpectedError: Could not find pty on pty host
+    at k.L (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:28:6920)
+    at k.updateTitle (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:28:2627)
+    at Object.call (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:17:5058)
+    at h.s (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:5412)
+    at h.q (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:4915)
+    at /home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:4326
+    at l.invoke (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at u.deliver (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:2125)
+    at s.fire (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:1733)
+    at process.z (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:9:21144)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-06-24 17:03:31.721 [error] CodeExpectedError: Could not find pty on pty host
+    at k.L (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:28:6920)
+    at k.updateIcon (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:28:2677)
+    at Object.call (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:17:5058)
+    at h.s (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:5412)
+    at h.q (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:4915)
+    at /home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:4326
+    at l.invoke (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at u.deliver (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:2125)
+    at s.fire (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:1733)
+    at process.z (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:9:21144)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-06-24 17:08:27.608 [info] [127.0.0.1][87be4e51][ExtensionHostConnection] <816626> Extension Host Process exited with code: 0, signal: null.

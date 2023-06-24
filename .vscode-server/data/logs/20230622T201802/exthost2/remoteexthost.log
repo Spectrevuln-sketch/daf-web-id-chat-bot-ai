@@ -1,0 +1,13 @@
+2023-06-22 20:18:47.844 [info] Extension host with pid 637285 started
+2023-06-22 20:18:47.963 [info] Lock '/home/daf.web.id/public_html/vai/.vscode-server/data/User/workspaceStorage/6c6d2c5b804d017270a5cb090fbadc40/vscode.lock': Lock acquired.
+2023-06-22 20:18:48.172 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-06-22 20:18:48.174 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2023-06-22 20:18:48.175 [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+2023-06-22 20:18:48.862 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2023-06-22 20:18:48.862 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2023-06-22 20:18:49.889 [info] Eager extensions activated
+2023-06-22 20:18:49.890 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-06-22 20:18:49.891 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-06-22 21:12:14.331 [info] Extension host terminating: renderer disconnected for too long (2)
+2023-06-22 21:12:14.334 [info] Lock '/home/daf.web.id/public_html/vai/.vscode-server/data/User/workspaceStorage/6c6d2c5b804d017270a5cb090fbadc40/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-06-22 21:12:14.359 [info] Extension host with pid 637285 exiting with code 0

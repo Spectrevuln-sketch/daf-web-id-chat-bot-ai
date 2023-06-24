@@ -1,0 +1,8 @@
+/*
+Theme Name: Classic Theme
+Theme URL : https://daf.web.id
+Author: DAFF
+Version: 1
+Price: Free
+Description: Minimalis
+*/
