@@ -1,0 +1,10 @@
+2023-06-25 09:07:24.747 [info] Extension host with pid 12262 started
+2023-06-25 09:07:24.881 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-06-25 09:07:24.882 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+2023-06-25 09:07:25.057 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-06-25 09:07:25.057 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-06-25 09:07:25.445 [info] Eager extensions activated
+2023-06-25 09:07:25.446 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-06-25 09:07:25.446 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-06-25 09:07:58.918 [info] Extension host terminating: received terminate message from renderer
+2023-06-25 09:07:58.938 [info] Extension host with pid 12262 exiting with code 0

@@ -1,0 +1,26 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "security.workspace.trust.untrustedFiles": "open",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "python.defaultInterpreterPath": "C:\\Python311\\python.exe",
+    "workbench.editorAssociations": {
+        "*.exe": "default"
+    },
+    "codegpt.apiKey": "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",
+    "files.associations": {
+        "*.yrf": "json",
+        "*.rpx": "xml"
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "[html]": {
+        "editor.suggest.insertMode": "replace",
+        "editor.defaultFormatter": "mohd-akram.vscode-html-format"
+    },
+    "git.enableSmartCommit": true,
+    "git.openRepositoryInParentFolders": "never",
+    "remote.SSH.remotePlatform": {
+        "daf.web.id": "linux"
+    }
+}

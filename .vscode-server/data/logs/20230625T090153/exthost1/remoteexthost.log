@@ -1,0 +1,13 @@
+2023-06-25 09:04:39.897 [info] Extension host with pid 11734 started
+2023-06-25 09:04:40.068 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-06-25 09:04:40.070 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+2023-06-25 09:04:40.486 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-06-25 09:04:40.486 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-06-25 09:04:40.487 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-06-25 09:04:40.695 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-06-25 09:04:40.696 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-06-25 09:04:41.150 [info] Eager extensions activated
+2023-06-25 09:04:41.151 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-06-25 09:04:41.151 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-06-25 09:05:20.451 [info] Extension host terminating: received terminate message from renderer
+2023-06-25 09:05:20.499 [info] Extension host with pid 11734 exiting with code 0

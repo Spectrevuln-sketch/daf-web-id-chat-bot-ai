@@ -1,0 +1,17 @@
+2023-06-23 23:01:30.268 [info] Extension host with pid 745271 started
+2023-06-23 23:01:30.297 [error] Error: EEXIST: file already exists, open '/home/daf.web.id/public_html/vai/.vscode-server/data/User/workspaceStorage/6c6d2c5b804d017270a5cb090fbadc40/vscode.lock'
+2023-06-23 23:01:30.309 [info] Lock '/home/daf.web.id/public_html/vai/.vscode-server/data/User/workspaceStorage/6c6d2c5b804d017270a5cb090fbadc40/vscode.lock': Could not acquire lock, checking if the file is stale.
+2023-06-23 23:01:30.335 [info] Lock '/home/daf.web.id/public_html/vai/.vscode-server/data/User/workspaceStorage/6c6d2c5b804d017270a5cb090fbadc40/vscode.lock': The lock does not look stale, elapsed: 559 ms, giving up.
+2023-06-23 23:01:30.415 [info] Lock '/home/daf.web.id/public_html/vai/.vscode-server/data/User/workspaceStorage/6c6d2c5b804d017270a5cb090fbadc40-1/vscode.lock': Lock acquired.
+2023-06-23 23:01:30.851 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-06-23 23:01:30.855 [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+2023-06-23 23:01:30.857 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2023-06-23 23:01:30.858 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: '*'
+2023-06-23 23:01:31.221 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2023-06-23 23:01:31.222 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2023-06-23 23:01:32.345 [info] Eager extensions activated
+2023-06-23 23:01:32.347 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-06-23 23:01:32.348 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-06-23 23:19:20.343 [info] Extension host terminating: renderer disconnected for too long (2)
+2023-06-23 23:19:20.351 [info] Lock '/home/daf.web.id/public_html/vai/.vscode-server/data/User/workspaceStorage/6c6d2c5b804d017270a5cb090fbadc40-1/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-06-23 23:19:20.375 [info] Extension host with pid 745271 exiting with code 0

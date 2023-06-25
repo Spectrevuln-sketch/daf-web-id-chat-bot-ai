@@ -1,0 +1,40 @@
+{
+    "editor.tabSize": 2,
+    "workbench.iconTheme": "material-icon-theme",
+    "remote.SSH.remotePlatform": {
+        "103.147.154.57": "linux",
+        "forexforyouid.com": "linux",
+        "185.201.9.78": "linux",
+        "midisindo.com": "linux",
+        "103.31.38.28": "linux",
+        "shark86": "linux",
+        "159.223.40.106": "linux",
+        "daf.web.id": "linux"
+    },
+    "remote.SSH.configFile": "D:/config/ssh",
+    "explorer.confirmDelete": false,
+    "remote.SSH.connectTimeout": 100,
+    "remote.SSH.showLoginTerminal": true,
+    "remote.SSH.localServerDownload": "always",
+    "tabnine.experimentalAutoImports": true,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "editor.inlineSuggest.enabled": true,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "npm.keybindingsChangedWarningShown": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "gopls": {},
+    "go.toolsManagement.autoUpdate": true,
+    "workbench.editorAssociations": {
+        "*.bin": "default"
+    },
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "workbench.colorTheme": "Material Theme Darker",
+    "files.trimTrailingWhitespace": true,
+    "window.zoomLevel": -1,
+    "remotefs.remote": {}
+}

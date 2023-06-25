@@ -1,0 +1,20 @@
+2023-06-24 11:03:12.717 [info] Extension host with pid 794035 started
+2023-06-24 11:03:12.738 [error] Error: EEXIST: file already exists, open '/home/daf.web.id/public_html/vai/.vscode-server/data/User/workspaceStorage/6c6d2c5b804d017270a5cb090fbadc40/vscode.lock'
+2023-06-24 11:03:12.747 [info] Lock '/home/daf.web.id/public_html/vai/.vscode-server/data/User/workspaceStorage/6c6d2c5b804d017270a5cb090fbadc40/vscode.lock': Could not acquire lock, checking if the file is stale.
+2023-06-24 11:03:12.761 [info] Lock '/home/daf.web.id/public_html/vai/.vscode-server/data/User/workspaceStorage/6c6d2c5b804d017270a5cb090fbadc40/vscode.lock': The lock does not look stale, elapsed: 630 ms, giving up.
+2023-06-24 11:03:12.783 [info] Lock '/home/daf.web.id/public_html/vai/.vscode-server/data/User/workspaceStorage/6c6d2c5b804d017270a5cb090fbadc40-1/vscode.lock': Lock acquired.
+2023-06-24 11:03:12.876 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-06-24 11:03:12.878 [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+2023-06-24 11:03:12.883 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2023-06-24 11:03:12.884 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: '*'
+2023-06-24 11:03:13.178 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2023-06-24 11:03:13.179 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2023-06-24 11:03:16.089 [info] Eager extensions activated
+2023-06-24 11:03:16.090 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-06-24 11:03:16.091 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-06-24 11:04:03.025 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2023-06-24 11:04:03.026 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2023-06-24 11:04:03.026 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2023-06-24 14:15:06.232 [info] Extension host terminating: received terminate message from renderer
+2023-06-24 14:15:06.235 [info] Lock '/home/daf.web.id/public_html/vai/.vscode-server/data/User/workspaceStorage/6c6d2c5b804d017270a5cb090fbadc40-1/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-06-24 14:15:06.310 [info] Extension host with pid 794035 exiting with code 0

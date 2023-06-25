@@ -1,0 +1,64 @@
+2023-06-23 20:50:33.970 [info] 
+
+
+
+
+2023-06-23 20:50:34.028 [info] Extension host agent started.
+2023-06-23 20:50:34.233 [info] [127.0.0.1][19fd2218][ManagementConnection] New connection established.
+2023-06-23 20:50:34.257 [info] [127.0.0.1][a97a8083][ExtensionHostConnection] New connection established.
+2023-06-23 20:50:34.490 [info] [127.0.0.1][a97a8083][ExtensionHostConnection] <735265> Launched Extension Host Process.
+2023-06-23 20:50:40.469 [error] CodeExpectedError: Could not find pty on pty host
+    at k.L (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:28:6920)
+    at k.updateIcon (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:28:2677)
+    at Object.call (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:17:5058)
+    at h.s (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:5412)
+    at h.q (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:4915)
+    at /home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:4326
+    at l.invoke (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at u.deliver (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:2125)
+    at s.fire (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:1733)
+    at process.z (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:9:21144)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-06-23 20:50:40.475 [error] CodeExpectedError: Could not find pty on pty host
+    at k.L (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:28:6920)
+    at k.updateTitle (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:28:2627)
+    at Object.call (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:17:5058)
+    at h.s (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:5412)
+    at h.q (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:4915)
+    at /home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:15:4326
+    at l.invoke (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at u.deliver (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:2125)
+    at s.fire (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:11:1733)
+    at process.z (/home/daf.web.id/public_html/vai/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/out/vs/platform/terminal/node/ptyHostMain.js:9:21144)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-06-23 20:55:34.032 [info] New EH opened, aborting shutdown
+2023-06-23 21:11:17.211 [info] Getting Manifest... ecmel.vscode-html-css
+2023-06-23 21:11:17.304 [info] Installing extension: ecmel.vscode-html-css
+2023-06-23 21:11:21.781 [info] Extension signature is verified: ecmel.vscode-html-css
+2023-06-23 21:11:21.863 [info] Extracted extension to /home/daf.web.id/public_html/vai/.vscode-server/extensions/.04bd863b-e36b-4735-a495-d640a47f7c46: ecmel.vscode-html-css
+2023-06-23 21:11:21.876 [info] Renamed to /home/daf.web.id/public_html/vai/.vscode-server/extensions/ecmel.vscode-html-css-1.13.1
+2023-06-23 21:11:21.881 [info] Extracting extension completed. ecmel.vscode-html-css
+2023-06-23 21:11:21.891 [info] Extension installed successfully: ecmel.vscode-html-css
+2023-06-23 22:08:41.461 [info] [127.0.0.1][b2386c16][ManagementConnection] New connection established.
+2023-06-23 22:08:41.482 [info] [127.0.0.1][319f7c60][ExtensionHostConnection] New connection established.
+2023-06-23 22:08:41.495 [info] [127.0.0.1][319f7c60][ExtensionHostConnection] <741302> Launched Extension Host Process.
+2023-06-23 22:13:41.820 [info] [127.0.0.1][a97a8083][ExtensionHostConnection] <735265> Extension Host Process exited with code: 0, signal: null.
+2023-06-23 22:36:09.323 [info] [127.0.0.1][f42bed44][ManagementConnection] New connection established.
+2023-06-23 22:36:09.344 [info] [127.0.0.1][921e957d][ExtensionHostConnection] New connection established.
+2023-06-23 22:36:09.358 [info] [127.0.0.1][921e957d][ExtensionHostConnection] <743085> Launched Extension Host Process.
+2023-06-23 22:41:09.454 [info] [127.0.0.1][319f7c60][ExtensionHostConnection] <741302> Extension Host Process exited with code: 0, signal: null.
+2023-06-23 23:01:28.500 [info] [127.0.0.1][8a89f85e][ManagementConnection] New connection established.
+2023-06-23 23:01:28.565 [info] [127.0.0.1][bf85bf01][ExtensionHostConnection] New connection established.
+2023-06-23 23:01:28.625 [info] [127.0.0.1][bf85bf01][ExtensionHostConnection] <745271> Launched Extension Host Process.
+2023-06-23 23:14:20.235 [info] [127.0.0.1][48310e86][ManagementConnection] New connection established.
+2023-06-23 23:14:20.261 [info] [127.0.0.1][5963a58d][ExtensionHostConnection] New connection established.
+2023-06-23 23:14:20.278 [info] [127.0.0.1][5963a58d][ExtensionHostConnection] <746475> Launched Extension Host Process.
+2023-06-23 23:19:20.395 [info] [127.0.0.1][bf85bf01][ExtensionHostConnection] <745271> Extension Host Process exited with code: 0, signal: null.
+2023-06-23 23:19:20.526 [info] [127.0.0.1][921e957d][ExtensionHostConnection] <743085> Extension Host Process exited with code: 0, signal: null.
+2023-06-24 02:29:18.275 [info] [127.0.0.1][5963a58d][ExtensionHostConnection] <746475> Extension Host Process exited with code: 0, signal: null.
+2023-06-24 02:29:18.285 [info] Last EH closed, waiting before shutting down
+2023-06-24 02:34:18.297 [info] Last EH closed, shutting down
